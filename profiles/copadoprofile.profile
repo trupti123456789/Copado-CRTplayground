@@ -6201,7 +6201,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Account.AnnualRevenue</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -6293,6 +6293,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.newfield1__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
