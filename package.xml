@@ -4,13 +4,5 @@
         <members>Account.demo__c</members>
         <name>CustomField</name>
     </types>
-    <types>
-        <members>mypermission</members>
-        <name>PermissionSet</name>
-    </types>
-    <types>
-        <members>copadoprofile</members>
-        <name>Profile</name>
-    </types>
     <version>57.0</version>
 </Package>
