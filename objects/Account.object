@@ -336,6 +336,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>myfirstcustomfield__c</fullName>
+        <externalId>false</externalId>
+        <label>myfirstcustomfield</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
         <columns>ACCOUNT.NAME</columns>
