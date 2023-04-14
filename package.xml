@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>copado__GenerateScaRuleSetCtrl</members>
-        <members>copado__LicenseManagerCtrl</members>
-        <name>ApexClass</name>
+        <members>permission1404</members>
+        <name>PermissionSet</name>
     </types>
     <version>57.0</version>
 </Package>
