@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>copado__Pipeline</members>
+        <members>copado__Project</members>
         <members>copado__UserStory</members>
         <name>ApexClass</name>
     </types>
