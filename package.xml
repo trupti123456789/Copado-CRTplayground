@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account-Formato de cuentas</members>
+        <members>Account.pratikfield__c</members>
+        <members>Account.trupfield__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account-mypagelayout</members>
         <name>Layout</name>
     </types>
     <version>57.0</version>
