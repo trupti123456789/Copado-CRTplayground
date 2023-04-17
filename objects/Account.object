@@ -358,6 +358,26 @@
         </filters>
         <label>New This Week</label>
     </listViews>
+    <recordTypes>
+        <fullName>record0</fullName>
+        <active>true</active>
+        <label>record0</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>record1</fullName>
+        <active>true</active>
+        <label>record1</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>record11</fullName>
+        <active>true</active>
+        <label>record11</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>record2</fullName>
+        <active>true</active>
+        <label>record2</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
