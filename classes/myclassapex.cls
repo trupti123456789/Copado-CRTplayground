@@ -6,9 +6,9 @@ public class myclassapex {
         }
         String taskPriority;
         if (leadState == 'CA') {
-             taskPriority = 'High'; 
+             taskPriority = 'LOW'; 
         } else {
-             taskPriority = 'Normal';
+             taskPriority = 'LOW@';
         }
         return taskPriority;
     }
