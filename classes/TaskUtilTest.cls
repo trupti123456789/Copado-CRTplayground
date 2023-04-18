@@ -1,15 +1,15 @@
 @isTest
 private class TaskUtilTest {
     @isTest static void testTaskPriority() {
-        String pri = TaskUtil.getTaskPriority('NY');
+        String pri = TaskUtill.getTaskPriority('NY');
         System.assertEquals('Normal', pri);
     }
     @isTest static void testTaskHighPriority() {
-        String pri = TaskUtil.getTaskPriority('CA');
+        String pri = TaskUtill.getTaskPriority('CA');
         System.assertEquals('High', pri);
     }
     @isTest static void testTaskPriorityInvalid() {
-        String pri = TaskUtil.getTaskPriority('Montana');
+        String pri = TaskUtill.getTaskPriority('Montana');
         System.assertEquals(null, pri);
     }
 }
