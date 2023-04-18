@@ -1,7 +1,7 @@
 public class TaskUtill {
     public static String getTaskPriority(String leadState) {
         // Validate input
-        if (String.isBlank(leadState) || leadState.length() > 2) {
+        if (String.isBlank(leadState) || leadState.length() > 3) {
             return null;
         }
         String taskPriority;
