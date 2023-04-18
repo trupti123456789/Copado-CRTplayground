@@ -2,7 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>TaskUtilTest</members>
-        <members>TaskUtiled</members>
+        <members>TaskUtill</members>
         <name>ApexClass</name>
     </types>
     <version>57.0</version>
