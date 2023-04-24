@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.newfield1__c</members>
+        <members>Account.acco__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>Account-Formato de cuentas</members>
+        <members>Account-mypagelayout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>Account.record0</members>
+        <members>Account.record1</members>
+        <members>Account.record11</members>
+        <members>Account.record2</members>
+        <name>RecordType</name>
     </types>
     <version>57.0</version>
 </Package>
