@@ -438,6 +438,11 @@
         <active>true</active>
         <label>record2</label>
     </recordTypes>
+    <recordTypes>
+        <fullName>record3</fullName>
+        <active>true</active>
+        <label>record3</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
