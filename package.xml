@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>myperm</members>
-        <name>PermissionSet</name>
+        <members>Account-mypagelayout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>copadoprofile</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Account.record3</members>
+        <name>RecordType</name>
     </types>
     <version>57.0</version>
 </Package>
