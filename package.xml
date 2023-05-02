@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Room__c.Number__c</members>
-        <members>Room__c.description__c</members>
-        <name>CustomField</name>
+        <members>copadoprofile</members>
+        <name>Profile</name>
     </types>
     <types>
-        <members>Room__c</members>
-        <name>CustomObject</name>
+        <members>Account.record3</members>
+        <name>RecordType</name>
     </types>
     <version>57.0</version>
 </Package>
