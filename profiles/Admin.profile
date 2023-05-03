@@ -6291,6 +6291,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.mypicklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Asset.AccountId</field>
         <readable>true</readable>
@@ -14900,6 +14905,10 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Formato de cuentas</layout>
+        <recordType>Account.record1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Formato de cuentas</layout>
         <recordType>Account.record31</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -17425,6 +17434,11 @@
         <apexPage>copado__viewOrg</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.record1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Account.record31</recordType>

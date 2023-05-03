@@ -357,6 +357,40 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>mypicklist__c</fullName>
+        <externalId>false</externalId>
+        <label>mypicklist</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>trupti1</fullName>
+                    <default>false</default>
+                    <label>trupti1</label>
+                </value>
+                <value>
+                    <fullName>trupti2</fullName>
+                    <default>false</default>
+                    <label>trupti2</label>
+                </value>
+                <value>
+                    <fullName>trupti3</fullName>
+                    <default>false</default>
+                    <label>trupti3</label>
+                </value>
+                <value>
+                    <fullName>trupti4</fullName>
+                    <default>false</default>
+                    <label>trupti4</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>newfield1__c</fullName>
         <externalId>false</externalId>
         <label>newfield1</label>
@@ -427,6 +461,25 @@
         <fullName>record1</fullName>
         <active>true</active>
         <label>record1</label>
+        <picklistValues>
+            <picklist>mypicklist__c</picklist>
+            <values>
+                <fullName>trupti1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti4</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
     </recordTypes>
     <recordTypes>
         <fullName>record11</fullName>
@@ -447,6 +500,25 @@
         <fullName>record31</fullName>
         <active>true</active>
         <label>record31</label>
+        <picklistValues>
+            <picklist>mypicklist__c</picklist>
+            <values>
+                <fullName>trupti1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti4</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
     </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
