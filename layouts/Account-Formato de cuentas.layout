@@ -37,15 +37,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>pratikfield__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>myfirstcustomfield__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>trupfield__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
