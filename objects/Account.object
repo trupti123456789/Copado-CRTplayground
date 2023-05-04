@@ -406,6 +406,25 @@
         <fullName>record1</fullName>
         <active>true</active>
         <label>record1</label>
+        <picklistValues>
+            <picklist>mypicklist__c</picklist>
+            <values>
+                <fullName>trupti1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>trupti4</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
     </recordTypes>
     <recordTypes>
         <fullName>record11</fullName>

@@ -8,5 +8,9 @@
         <members>Account-Formato de cuentas</members>
         <name>Layout</name>
     </types>
+    <types>
+        <members>Account.record1</members>
+        <name>RecordType</name>
+    </types>
     <version>57.0</version>
 </Package>
